@@ -1,0 +1,28 @@
+npm install react-player
+npm install axios
+npm install react-bootstrap bootstrap
+npm i react-router-dom
+npm install react-icons --save 
+npm install react-slick --save // 라이브러리 설치
+npm install slick-carousel --save // css 설치
+
+
+npm install http-proxy-middleware
+
+# Framework Agnostic
+$ npm install @emotion/css
+
+# React
+$ npm install @emotion/react
+
+2024-02-26
+
+npm install react-device-detect --save
+
+
+npm install react-simple-chatbot --save 
+npm install --save sessionstorage
+
+20240303
+
+24-3-5 :  npm install react-table
